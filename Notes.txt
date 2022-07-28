@@ -1,0 +1,10 @@
+step 1 startsrping
+step 2 system properties
+step three glassfish dependency
+step 4 models 
+step 5 generate model getters and setters
+6: createJson method 
+7: Go to the weather model and set the getters and setters
+8: create add condition method
+create Sjon OBject
+9: create WEather service adn weatehr controller

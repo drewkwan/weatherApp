@@ -1,6 +1,6 @@
 step 1 startsrping
 step 2 system properties
-step three glassfish dependency
+step three -> glassfish dependency
 step 4 models 
 step 5 generate model getters and setters
 6: createJson method 
@@ -8,3 +8,8 @@ step 5 generate model getters and setters
 8: create add condition method
 create Sjon OBject
 9: create WEather service adn weatehr controller
+
+You will receive a JSon String from the server, and the service folder will process it into something readable 
+for the controller following which the controllers can start making calls to the template files using the models
+
+You can sculpt your view based on what you want to display. Your models will determine what you display. 

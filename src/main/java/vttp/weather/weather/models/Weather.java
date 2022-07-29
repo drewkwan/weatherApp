@@ -19,7 +19,7 @@ public class Weather {
     private String city;
     private String temperature;
    
-    //Need a lisst of condiitons
+    //Need a list of condiitons
     public List<Conditions> conditions= new LinkedList<>(); 
 
     public List<Conditions> getConditions() {
